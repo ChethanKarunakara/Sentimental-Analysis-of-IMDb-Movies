@@ -1,7 +1,7 @@
 <h1>IMDB Sentiment Analysis Model</h1>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Proejct_By-Chethan_Karunakara-blue">
+<img src="https://img.shields.io/badge/Project_By-Chethan_Karunakara-blue">
 <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
 <img src="https://img.shields.io/badge/contributions-welcome-brightgreen">
 <img src="https://img.shields.io/badge/python(spyder)-v3.7%2B-orange" />
